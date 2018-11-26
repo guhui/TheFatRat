@@ -1,4 +1,4 @@
-
+如何绕过杀毒：https://gbhackers.com/bypass-antivirus-using-payload/
 # TheFatRat a Massive Exploiting Tool 
 #### Will be update soon
 
